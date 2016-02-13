@@ -10,10 +10,11 @@ topics = ["topic 1"]
 type = "post"
 
 +++
-## This is the first postddd
+## This is the first post
 Lets start blogging!
 
 Nice picture!
+This is what it should look like having a picture inside your post.
 ![enter image description here][1]
 
 
